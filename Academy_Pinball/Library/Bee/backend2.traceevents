@@ -1,0 +1,352 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1694579311607139, "dur":209, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1694579311607417, "dur":20518, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1694579311627946, "dur":58, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1694579311628031, "dur":426, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1694579311628639, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1694579311628843, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1694579311629133, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":0, "ts":1694579311629646, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311629917, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311630041, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311630244, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311630464, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311630652, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311630711, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311630862, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311630986, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311631463, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311631585, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311631737, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311631992, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311632130, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311632262, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311632452, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311632588, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311632986, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311633151, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311633277, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311633333, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311633391, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311633453, "dur":132, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311633616, "dur":111, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311633808, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1694579311634641, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1694579311634845, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Firmanda_GamePinball/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1694579311628486, "dur":6706, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1694579311635194, "dur":2708091, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1694579314343286, "dur":196, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1694579314343482, "dur":102, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1694579314343854, "dur":1984, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1694579311629123, "dur":6087, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694579311635216, "dur":2247, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694579311638447, "dur":3546, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1694579311642001, "dur":165, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1694579311642179, "dur":964, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1694579311643146, "dur":171, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1694579311643417, "dur":157, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311643698, "dur":188, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Project\\Academy_Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311643890, "dur":385, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Project\\Academy_Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311644278, "dur":717, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Project\\Academy_Pinball\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311644998, "dur":619, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Project\\Academy_Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311645620, "dur":1192, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Project\\Academy_Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311646815, "dur":218, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Project\\Academy_Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311647035, "dur":751, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Project\\Academy_Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311647789, "dur":304, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Project\\Academy_Pinball\\Library\\PackageCache\\com.unity.visualscripting@1.8.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311648096, "dur":237, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311648335, "dur":405, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311648743, "dur":515, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311649261, "dur":273, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311649535, "dur":1228, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311650765, "dur":254, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311651020, "dur":2181, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311653204, "dur":637, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311653842, "dur":165, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311654008, "dur":109, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311654118, "dur":202, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311654322, "dur":195, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311654518, "dur":216, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311654735, "dur":1067, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311655805, "dur":566, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311656375, "dur":358, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311656734, "dur":142, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311656877, "dur":219, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311657097, "dur":3309, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311660413, "dur":3310, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311663725, "dur":5059, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311668786, "dur":186, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player980aa7db-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1694579311668996, "dur":92338, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.BuildTools.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311761336, "dur":586854, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579312348192, "dur":308920, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.CSharpSupport.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579312657114, "dur":2282, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.DotNet.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579312659399, "dur":1964, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.NativeProgramSupport.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579312661365, "dur":19365, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Stevedore.Program.exe" }}
+,{ "pid":12345, "tid":1, "ts":1694579312680733, "dur":1918, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.TinyProfiler2.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579312682652, "dur":128506, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.GNU.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579312811161, "dur":94334, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.LLVM.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579312905498, "dur":207020, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.VisualStudio.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313112520, "dur":139167, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.Xcode.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313251692, "dur":1750, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Tools.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313253444, "dur":11534, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.TundraBackend.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313264980, "dur":1126, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.VisualStudioSolution.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313266107, "dur":15849, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\BeeBuildProgramCommon.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313281959, "dur":11397, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\BeeBuildProgramCommon.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313293359, "dur":480, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\BeeLocalCacheTool.exe" }}
+,{ "pid":12345, "tid":1, "ts":1694579313293840, "dur":115495, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313409337, "dur":13500, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\NiceIO.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313422840, "dur":1099, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\PlayerBuildProgramLibrary.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313423941, "dur":1601, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\PlayerBuildProgramLibrary.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313425544, "dur":664, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\ScriptCompilationBuildProgram.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313426210, "dur":7209, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\ScriptCompilationBuildProgram.exe" }}
+,{ "pid":12345, "tid":1, "ts":1694579313433439, "dur":147654, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\SharpYaml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313581097, "dur":32797, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Api.Attributes.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313613898, "dur":155258, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313769158, "dur":84571, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313853732, "dur":55035, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313908771, "dur":48134, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313956915, "dur":1518, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.IL2CPP.Api.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313958437, "dur":1075, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.IL2CPP.Bee.BuildLogic.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313959514, "dur":533, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313960048, "dur":873, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Linker.Api.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579313960926, "dur":141226, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Options.dll" }}
+,{ "pid":12345, "tid":1, "ts":1694579311641999, "dur":2460155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1694579314102161, "dur":57, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694579314339951, "dur":91, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1694579314102307, "dur":237754, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1694579314341628, "dur":194, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1694579314341627, "dur":197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1694579314341848, "dur":1344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1694579311629495, "dur":5805, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694579311635303, "dur":387, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694579311635690, "dur":1785, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694579311637475, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1694579311668794, "dur":81, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694579311655309, "dur":13585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1694579311668924, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1694579311669291, "dur":21659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1694579311690975, "dur":62871, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1694579311690972, "dur":62877, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1694579311828576, "dur":98, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694579311753887, "dur":74826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1694579311838598, "dur":84, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694579311829135, "dur":9569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311838747, "dur":6808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311849260, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694579311845610, "dur":3773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311849446, "dur":5202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311854708, "dur":2108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311859643, "dur":87, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694579311856856, "dur":2897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311859823, "dur":3761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311863686, "dur":3675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311867400, "dur":1973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311869441, "dur":1565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311871058, "dur":2557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311873679, "dur":4150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311881125, "dur":90, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1694579311877902, "dur":3376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311881337, "dur":1549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311882955, "dur":4242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311887253, "dur":3739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311891070, "dur":2677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311893796, "dur":3067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311896909, "dur":2444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311899404, "dur":2389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311901896, "dur":5612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311907576, "dur":3149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311910782, "dur":1291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311912103, "dur":1303394, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579311912101, "dur":1303398, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579313215566, "dur":35818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1694579313251426, "dur":1091824, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694579311629190, "dur":6035, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694579311635238, "dur":436, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694579311635674, "dur":1799, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694579311637503, "dur":30092, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1694579311637475, "dur":30122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1694579311668784, "dur":86, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694579311667658, "dur":1231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1694579311668923, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1694579311669024, "dur":69945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1694579311739049, "dur":35303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1694579311774369, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1694579311889630, "dur":94, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694579311827676, "dur":62080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1694579311892241, "dur":95, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694579311889820, "dur":2542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694579311895806, "dur":84, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694579311892437, "dur":3507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694579311896029, "dur":2911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694579311898975, "dur":59, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1694579311899038, "dur":2451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694579311901528, "dur":2567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694579311904171, "dur":4003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694579311908319, "dur":2178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694579311910544, "dur":1524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694579311912122, "dur":13418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1694579311925582, "dur":6991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1694579311932650, "dur":464431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1694579312397131, "dur":2076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1694579312399267, "dur":2953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1694579312402264, "dur":1940992, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694579311629370, "dur":5890, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694579311635266, "dur":414, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694579311635680, "dur":1789, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694579311637504, "dur":51660, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1694579311637475, "dur":51692, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1694579311690440, "dur":1082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1694579311691983, "dur":33744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1694579311725756, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1694579311725939, "dur":138, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694579311726704, "dur":2479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1694579311729229, "dur":22328, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1694579311729219, "dur":22341, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1694579311751595, "dur":1308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1694579311752926, "dur":54426, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":4, "ts":1694579311752924, "dur":54431, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball.exe" }}
+,{ "pid":12345, "tid":4, "ts":1694579311807408, "dur":22190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball.exe" }}
+,{ "pid":12345, "tid":4, "ts":1694579311835883, "dur":72, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694579311832347, "dur":3646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694579311836055, "dur":60, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694579311836176, "dur":5066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694579311841368, "dur":5144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694579311846560, "dur":4024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694579311856166, "dur":136, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694579311850695, "dur":5887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694579311856665, "dur":5283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694579311862026, "dur":1626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694579311863700, "dur":3596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694579311867646, "dur":1676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694579311871456, "dur":218, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694579311869394, "dur":2390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694579311872088, "dur":269, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694579311872363, "dur":6266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694579311878686, "dur":3319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694579311882077, "dur":5195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694579311890414, "dur":218, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1694579311887317, "dur":3330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694579311890786, "dur":3217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694579311894079, "dur":4555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694579311898709, "dur":2681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694579311901440, "dur":2378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694579311903868, "dur":8827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1694579311912757, "dur":12644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":4, "ts":1694579311925457, "dur":7410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":4, "ts":1694579311932908, "dur":467957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1694579312400897, "dur":1942378, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1694579311629260, "dur":5988, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1694579311635254, "dur":394, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1694579311635648, "dur":99, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1694579311635747, "dur":1718, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1694579311641849, "dur":632, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1694579311642487, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/Academy_Pinball_Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1694579311643207, "dur":3867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1694579311647081, "dur":106753, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1694579311647079, "dur":106758, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1694579311753875, "dur":74912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1694579311838626, "dur":410, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1694579311829242, "dur":9834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311839128, "dur":6687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311845864, "dur":3739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311849656, "dur":5237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311854960, "dur":1932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311856976, "dur":2953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311863339, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1694579311859972, "dur":3444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311863466, "dur":2884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311866414, "dur":1918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311868379, "dur":1567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311871552, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1694579311869991, "dur":1645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311871684, "dur":2236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311873971, "dur":4696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311878714, "dur":3088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311881853, "dur":2953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311889163, "dur":1391, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1694579311884859, "dur":5722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311890764, "dur":2951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311893765, "dur":2665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311898672, "dur":331, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1694579311896475, "dur":2559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311899079, "dur":2902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311902082, "dur":5436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311907569, "dur":2698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311910318, "dur":1890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1694579311912286, "dur":19568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":5, "ts":1694579312394689, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1694579311931916, "dur":462866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1694579312397008, "dur":91, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1694579312394830, "dur":2281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/level1" }}
+,{ "pid":12345, "tid":5, "ts":1694579312397158, "dur":4799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1694579312401974, "dur":1941279, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694579311629647, "dur":5670, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694579311635321, "dur":397, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694579311635718, "dur":1754, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694579311637476, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1694579311647146, "dur":66588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1694579311713769, "dur":25160, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":6, "ts":1694579311713767, "dur":25164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1694579311743746, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1694579311739007, "dur":4825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1694579311743966, "dur":212973, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1694579311743963, "dur":212978, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1694579311957034, "dur":444562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1694579312401620, "dur":1941652, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694579311629415, "dur":5857, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694579311635281, "dur":424, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694579311635705, "dur":1762, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1694579311637486, "dur":906611, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1694579311637476, "dur":906622, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1694579312544129, "dur":1936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1694579312546084, "dur":1797167, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694579311629628, "dur":5682, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694579311635313, "dur":403, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694579311635717, "dur":1754, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694579311637476, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1694579311646927, "dur":22372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1694579311669323, "dur":13297, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":8, "ts":1694579311669320, "dur":13302, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1694579311682953, "dur":1089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1694579311684127, "dur":7087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1694579311691325, "dur":49302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1694579311740765, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1694579311741508, "dur":1965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1694579311743505, "dur":56022, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\Unity\\Hub\\Editor\\2022.3.7f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311743502, "dur":56027, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Firmanda_GamePinball/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311827672, "dur":1931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311832432, "dur":6305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311845757, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694579311838777, "dur":7060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311845881, "dur":3877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311849906, "dur":4363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311854534, "dur":2569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311857199, "dur":2711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311859966, "dur":4158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311864185, "dur":3097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311867331, "dur":1414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311868775, "dur":1363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311870228, "dur":1550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311871818, "dur":2481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311874348, "dur":3628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311878021, "dur":2860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311880965, "dur":3851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311884872, "dur":4368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311889296, "dur":1737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311891075, "dur":2651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311893770, "dur":2541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311896355, "dur":2349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311902581, "dur":611, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694579311898746, "dur":4476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311903375, "dur":159, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694579311903539, "dur":4940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311913422, "dur":71, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694579311908544, "dur":4970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1694579311931797, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1694579311913575, "dur":18287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1694579311931925, "dur":436665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":8, "ts":1694579312368639, "dur":27668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/level1.resS" }}
+,{ "pid":12345, "tid":8, "ts":1694579312396381, "dur":2147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/level0.resS" }}
+,{ "pid":12345, "tid":8, "ts":1694579312398628, "dur":3024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Firmanda_GamePinball/Academy_Pinball_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1694579312401686, "dur":1941587, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1694579314348877, "dur":1695, "ph":"X", "name": "ProfilerWriteOutput" }
+,
